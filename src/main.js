@@ -1,5 +1,5 @@
-numA=20
-numB=30
+let numA=20
+let numB=30
 
-res = numA + numB
+let res = numA + numB
 console.log(res)
